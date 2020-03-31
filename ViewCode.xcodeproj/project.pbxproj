@@ -13,6 +13,86 @@
 		A78C493E243273BA00321AFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A78C493C243273BA00321AFA /* LaunchScreen.storyboard */; };
 		A78C494624327C4D00321AFA /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78C494524327C4D00321AFA /* MainViewController.swift */; };
 		A78C494824328F3300321AFA /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78C494724328F3300321AFA /* NextViewController.swift */; };
+		A78C498B2432A49400321AFA /* Audios.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78C498A2432A49400321AFA /* Audios.swift */; };
+		A78C49DC2432A7F000321AFA /* Star Wars SoundFX_32.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C498D2432A7E800321AFA /* Star Wars SoundFX_32.mp3 */; };
+		A78C49DD2432A7F000321AFA /* Star Wars SoundFX_53.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C498E2432A7E800321AFA /* Star Wars SoundFX_53.mp3 */; };
+		A78C49DE2432A7F000321AFA /* Star Wars SoundFX_10.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C498F2432A7E800321AFA /* Star Wars SoundFX_10.mp3 */; };
+		A78C49DF2432A7F000321AFA /* Star Wars SoundFX_25.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49902432A7E800321AFA /* Star Wars SoundFX_25.mp3 */; };
+		A78C49E02432A7F000321AFA /* Star Wars SoundFX_58.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49912432A7E800321AFA /* Star Wars SoundFX_58.mp3 */; };
+		A78C49E12432A7F000321AFA /* Star Wars SoundFX_76.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49922432A7E800321AFA /* Star Wars SoundFX_76.mp3 */; };
+		A78C49E22432A7F000321AFA /* Star Wars SoundFX_52.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49932432A7E800321AFA /* Star Wars SoundFX_52.mp3 */; };
+		A78C49E32432A7F000321AFA /* Star Wars SoundFX_7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49942432A7E800321AFA /* Star Wars SoundFX_7.mp3 */; };
+		A78C49E42432A7F000321AFA /* Star Wars SoundFX_38.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49952432A7E800321AFA /* Star Wars SoundFX_38.mp3 */; };
+		A78C49E52432A7F000321AFA /* Star Wars SoundFX_35.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49962432A7E800321AFA /* Star Wars SoundFX_35.mp3 */; };
+		A78C49E62432A7F000321AFA /* Star Wars SoundFX_46.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49972432A7E800321AFA /* Star Wars SoundFX_46.mp3 */; };
+		A78C49E72432A7F000321AFA /* Star Wars SoundFX_45.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49982432A7E800321AFA /* Star Wars SoundFX_45.mp3 */; };
+		A78C49E82432A7F000321AFA /* Star Wars SoundFX_79.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49992432A7E900321AFA /* Star Wars SoundFX_79.mp3 */; };
+		A78C49E92432A7F000321AFA /* Star Wars SoundFX_23.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C499A2432A7E900321AFA /* Star Wars SoundFX_23.mp3 */; };
+		A78C49EA2432A7F000321AFA /* Star Wars SoundFX_60.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C499B2432A7E900321AFA /* Star Wars SoundFX_60.mp3 */; };
+		A78C49EB2432A7F000321AFA /* Star Wars SoundFX_2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C499C2432A7E900321AFA /* Star Wars SoundFX_2.mp3 */; };
+		A78C49EC2432A7F000321AFA /* Star Wars SoundFX_77.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C499D2432A7E900321AFA /* Star Wars SoundFX_77.mp3 */; };
+		A78C49ED2432A7F000321AFA /* Star Wars SoundFX_33.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C499E2432A7E900321AFA /* Star Wars SoundFX_33.mp3 */; };
+		A78C49EE2432A7F000321AFA /* Star Wars SoundFX_24.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C499F2432A7E900321AFA /* Star Wars SoundFX_24.mp3 */; };
+		A78C49EF2432A7F000321AFA /* Star Wars SoundFX_11.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A02432A7E900321AFA /* Star Wars SoundFX_11.mp3 */; };
+		A78C49F02432A7F000321AFA /* Star Wars SoundFX_55.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A12432A7E900321AFA /* Star Wars SoundFX_55.mp3 */; };
+		A78C49F12432A7F000321AFA /* Star Wars SoundFX_21.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A22432A7E900321AFA /* Star Wars SoundFX_21.mp3 */; };
+		A78C49F22432A7F000321AFA /* Star Wars SoundFX_67.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A32432A7E900321AFA /* Star Wars SoundFX_67.mp3 */; };
+		A78C49F32432A7F000321AFA /* Star Wars SoundFX_19.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A42432A7EA00321AFA /* Star Wars SoundFX_19.mp3 */; };
+		A78C49F42432A7F000321AFA /* Star Wars SoundFX_71.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A52432A7EA00321AFA /* Star Wars SoundFX_71.mp3 */; };
+		A78C49F52432A7F000321AFA /* Star Wars SoundFX_12.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A62432A7EA00321AFA /* Star Wars SoundFX_12.mp3 */; };
+		A78C49F62432A7F000321AFA /* Star Wars SoundFX_64.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A72432A7EA00321AFA /* Star Wars SoundFX_64.mp3 */; };
+		A78C49F72432A7F000321AFA /* Star Wars SoundFX_15.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A82432A7EA00321AFA /* Star Wars SoundFX_15.mp3 */; };
+		A78C49F82432A7F000321AFA /* Star Wars SoundFX_37.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49A92432A7EA00321AFA /* Star Wars SoundFX_37.mp3 */; };
+		A78C49F92432A7F000321AFA /* Star Wars SoundFX_39.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49AA2432A7EA00321AFA /* Star Wars SoundFX_39.mp3 */; };
+		A78C49FA2432A7F000321AFA /* Star Wars SoundFX_72.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49AB2432A7EA00321AFA /* Star Wars SoundFX_72.mp3 */; };
+		A78C49FB2432A7F000321AFA /* Star Wars SoundFX_17.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49AC2432A7EA00321AFA /* Star Wars SoundFX_17.mp3 */; };
+		A78C49FC2432A7F000321AFA /* Star Wars SoundFX_3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49AD2432A7EA00321AFA /* Star Wars SoundFX_3.mp3 */; };
+		A78C49FD2432A7F000321AFA /* Star Wars SoundFX_51.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49AE2432A7EA00321AFA /* Star Wars SoundFX_51.mp3 */; };
+		A78C49FE2432A7F000321AFA /* Star Wars SoundFX_74.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49AF2432A7EB00321AFA /* Star Wars SoundFX_74.mp3 */; };
+		A78C49FF2432A7F000321AFA /* Star Wars SoundFX_75.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B02432A7EB00321AFA /* Star Wars SoundFX_75.mp3 */; };
+		A78C4A002432A7F000321AFA /* Star Wars SoundFX_78.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B12432A7EB00321AFA /* Star Wars SoundFX_78.mp3 */; };
+		A78C4A012432A7F000321AFA /* Star Wars SoundFX_28.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B22432A7EB00321AFA /* Star Wars SoundFX_28.mp3 */; };
+		A78C4A022432A7F000321AFA /* Star Wars SoundFX_41.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B32432A7EB00321AFA /* Star Wars SoundFX_41.mp3 */; };
+		A78C4A032432A7F000321AFA /* Star Wars SoundFX_27.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B42432A7EB00321AFA /* Star Wars SoundFX_27.mp3 */; };
+		A78C4A042432A7F000321AFA /* Star Wars SoundFX_13.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B52432A7EB00321AFA /* Star Wars SoundFX_13.mp3 */; };
+		A78C4A052432A7F000321AFA /* Star Wars SoundFX_65.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B62432A7EB00321AFA /* Star Wars SoundFX_65.mp3 */; };
+		A78C4A062432A7F000321AFA /* Star Wars SoundFX_73.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B72432A7EB00321AFA /* Star Wars SoundFX_73.mp3 */; };
+		A78C4A072432A7F000321AFA /* Star Wars SoundFX_50.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B82432A7EB00321AFA /* Star Wars SoundFX_50.mp3 */; };
+		A78C4A082432A7F000321AFA /* Star Wars SoundFX_63.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49B92432A7EC00321AFA /* Star Wars SoundFX_63.mp3 */; };
+		A78C4A092432A7F000321AFA /* Star Wars SoundFX_18.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49BA2432A7EC00321AFA /* Star Wars SoundFX_18.mp3 */; };
+		A78C4A0A2432A7F000321AFA /* Star Wars SoundFX_59.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49BB2432A7EC00321AFA /* Star Wars SoundFX_59.mp3 */; };
+		A78C4A0B2432A7F000321AFA /* Star Wars SoundFX_70.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49BC2432A7EC00321AFA /* Star Wars SoundFX_70.mp3 */; };
+		A78C4A0C2432A7F000321AFA /* Star Wars SoundFX_69.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49BD2432A7EC00321AFA /* Star Wars SoundFX_69.mp3 */; };
+		A78C4A0D2432A7F000321AFA /* Star Wars SoundFX_26.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49BE2432A7EC00321AFA /* Star Wars SoundFX_26.mp3 */; };
+		A78C4A0E2432A7F000321AFA /* Star Wars SoundFX_14.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49BF2432A7EC00321AFA /* Star Wars SoundFX_14.mp3 */; };
+		A78C4A0F2432A7F000321AFA /* Star Wars SoundFX_29.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C02432A7EC00321AFA /* Star Wars SoundFX_29.mp3 */; };
+		A78C4A102432A7F000321AFA /* Star Wars SoundFX_5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C12432A7ED00321AFA /* Star Wars SoundFX_5.mp3 */; };
+		A78C4A112432A7F000321AFA /* Star Wars SoundFX_44.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C22432A7ED00321AFA /* Star Wars SoundFX_44.mp3 */; };
+		A78C4A122432A7F000321AFA /* Star Wars SoundFX_36.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C32432A7ED00321AFA /* Star Wars SoundFX_36.mp3 */; };
+		A78C4A132432A7F000321AFA /* Star Wars SoundFX_66.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C42432A7ED00321AFA /* Star Wars SoundFX_66.mp3 */; };
+		A78C4A142432A7F000321AFA /* Star Wars SoundFX_43.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C52432A7ED00321AFA /* Star Wars SoundFX_43.mp3 */; };
+		A78C4A152432A7F000321AFA /* Star Wars SoundFX_9.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C62432A7ED00321AFA /* Star Wars SoundFX_9.mp3 */; };
+		A78C4A162432A7F000321AFA /* Star Wars SoundFX_48.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C72432A7ED00321AFA /* Star Wars SoundFX_48.mp3 */; };
+		A78C4A172432A7F000321AFA /* Star Wars SoundFX_57.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C82432A7EE00321AFA /* Star Wars SoundFX_57.mp3 */; };
+		A78C4A182432A7F000321AFA /* Star Wars SoundFX_42.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49C92432A7EE00321AFA /* Star Wars SoundFX_42.mp3 */; };
+		A78C4A192432A7F000321AFA /* Star Wars SoundFX_22.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49CA2432A7EE00321AFA /* Star Wars SoundFX_22.mp3 */; };
+		A78C4A1A2432A7F000321AFA /* Star Wars SoundFX_20.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49CB2432A7EE00321AFA /* Star Wars SoundFX_20.mp3 */; };
+		A78C4A1B2432A7F000321AFA /* Star Wars SoundFX_56.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49CC2432A7EE00321AFA /* Star Wars SoundFX_56.mp3 */; };
+		A78C4A1C2432A7F000321AFA /* Star Wars SoundFX_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49CD2432A7EE00321AFA /* Star Wars SoundFX_1.mp3 */; };
+		A78C4A1D2432A7F000321AFA /* Star Wars SoundFX_6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49CE2432A7EE00321AFA /* Star Wars SoundFX_6.mp3 */; };
+		A78C4A1E2432A7F000321AFA /* Star Wars SoundFX_68.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49CF2432A7EE00321AFA /* Star Wars SoundFX_68.mp3 */; };
+		A78C4A1F2432A7F000321AFA /* Star Wars SoundFX_61.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D02432A7EF00321AFA /* Star Wars SoundFX_61.mp3 */; };
+		A78C4A202432A7F000321AFA /* Star Wars SoundFX_34.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D12432A7EF00321AFA /* Star Wars SoundFX_34.mp3 */; };
+		A78C4A212432A7F000321AFA /* Star Wars SoundFX_4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D22432A7EF00321AFA /* Star Wars SoundFX_4.mp3 */; };
+		A78C4A222432A7F000321AFA /* Star Wars SoundFX_8.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D32432A7EF00321AFA /* Star Wars SoundFX_8.mp3 */; };
+		A78C4A232432A7F000321AFA /* Star Wars SoundFX_40.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D42432A7EF00321AFA /* Star Wars SoundFX_40.mp3 */; };
+		A78C4A242432A7F000321AFA /* Star Wars SoundFX_49.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D52432A7EF00321AFA /* Star Wars SoundFX_49.mp3 */; };
+		A78C4A252432A7F000321AFA /* Star Wars SoundFX_47.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D62432A7EF00321AFA /* Star Wars SoundFX_47.mp3 */; };
+		A78C4A262432A7F000321AFA /* Star Wars SoundFX_54.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D72432A7EF00321AFA /* Star Wars SoundFX_54.mp3 */; };
+		A78C4A272432A7F000321AFA /* Star Wars SoundFX_62.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D82432A7EF00321AFA /* Star Wars SoundFX_62.mp3 */; };
+		A78C4A282432A7F000321AFA /* Star Wars SoundFX_31.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49D92432A7F000321AFA /* Star Wars SoundFX_31.mp3 */; };
+		A78C4A292432A7F000321AFA /* Star Wars SoundFX_30.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49DA2432A7F000321AFA /* Star Wars SoundFX_30.mp3 */; };
+		A78C4A2A2432A7F000321AFA /* Star Wars SoundFX_16.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A78C49DB2432A7F000321AFA /* Star Wars SoundFX_16.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +104,86 @@
 		A78C493F243273BA00321AFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A78C494524327C4D00321AFA /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		A78C494724328F3300321AFA /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
+		A78C498A2432A49400321AFA /* Audios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audios.swift; sourceTree = "<group>"; };
+		A78C498D2432A7E800321AFA /* Star Wars SoundFX_32.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_32.mp3"; sourceTree = "<group>"; };
+		A78C498E2432A7E800321AFA /* Star Wars SoundFX_53.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_53.mp3"; sourceTree = "<group>"; };
+		A78C498F2432A7E800321AFA /* Star Wars SoundFX_10.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_10.mp3"; sourceTree = "<group>"; };
+		A78C49902432A7E800321AFA /* Star Wars SoundFX_25.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_25.mp3"; sourceTree = "<group>"; };
+		A78C49912432A7E800321AFA /* Star Wars SoundFX_58.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_58.mp3"; sourceTree = "<group>"; };
+		A78C49922432A7E800321AFA /* Star Wars SoundFX_76.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_76.mp3"; sourceTree = "<group>"; };
+		A78C49932432A7E800321AFA /* Star Wars SoundFX_52.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_52.mp3"; sourceTree = "<group>"; };
+		A78C49942432A7E800321AFA /* Star Wars SoundFX_7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_7.mp3"; sourceTree = "<group>"; };
+		A78C49952432A7E800321AFA /* Star Wars SoundFX_38.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_38.mp3"; sourceTree = "<group>"; };
+		A78C49962432A7E800321AFA /* Star Wars SoundFX_35.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_35.mp3"; sourceTree = "<group>"; };
+		A78C49972432A7E800321AFA /* Star Wars SoundFX_46.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_46.mp3"; sourceTree = "<group>"; };
+		A78C49982432A7E800321AFA /* Star Wars SoundFX_45.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_45.mp3"; sourceTree = "<group>"; };
+		A78C49992432A7E900321AFA /* Star Wars SoundFX_79.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_79.mp3"; sourceTree = "<group>"; };
+		A78C499A2432A7E900321AFA /* Star Wars SoundFX_23.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_23.mp3"; sourceTree = "<group>"; };
+		A78C499B2432A7E900321AFA /* Star Wars SoundFX_60.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_60.mp3"; sourceTree = "<group>"; };
+		A78C499C2432A7E900321AFA /* Star Wars SoundFX_2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_2.mp3"; sourceTree = "<group>"; };
+		A78C499D2432A7E900321AFA /* Star Wars SoundFX_77.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_77.mp3"; sourceTree = "<group>"; };
+		A78C499E2432A7E900321AFA /* Star Wars SoundFX_33.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_33.mp3"; sourceTree = "<group>"; };
+		A78C499F2432A7E900321AFA /* Star Wars SoundFX_24.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_24.mp3"; sourceTree = "<group>"; };
+		A78C49A02432A7E900321AFA /* Star Wars SoundFX_11.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_11.mp3"; sourceTree = "<group>"; };
+		A78C49A12432A7E900321AFA /* Star Wars SoundFX_55.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_55.mp3"; sourceTree = "<group>"; };
+		A78C49A22432A7E900321AFA /* Star Wars SoundFX_21.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_21.mp3"; sourceTree = "<group>"; };
+		A78C49A32432A7E900321AFA /* Star Wars SoundFX_67.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_67.mp3"; sourceTree = "<group>"; };
+		A78C49A42432A7EA00321AFA /* Star Wars SoundFX_19.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_19.mp3"; sourceTree = "<group>"; };
+		A78C49A52432A7EA00321AFA /* Star Wars SoundFX_71.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_71.mp3"; sourceTree = "<group>"; };
+		A78C49A62432A7EA00321AFA /* Star Wars SoundFX_12.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_12.mp3"; sourceTree = "<group>"; };
+		A78C49A72432A7EA00321AFA /* Star Wars SoundFX_64.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_64.mp3"; sourceTree = "<group>"; };
+		A78C49A82432A7EA00321AFA /* Star Wars SoundFX_15.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_15.mp3"; sourceTree = "<group>"; };
+		A78C49A92432A7EA00321AFA /* Star Wars SoundFX_37.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_37.mp3"; sourceTree = "<group>"; };
+		A78C49AA2432A7EA00321AFA /* Star Wars SoundFX_39.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_39.mp3"; sourceTree = "<group>"; };
+		A78C49AB2432A7EA00321AFA /* Star Wars SoundFX_72.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_72.mp3"; sourceTree = "<group>"; };
+		A78C49AC2432A7EA00321AFA /* Star Wars SoundFX_17.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_17.mp3"; sourceTree = "<group>"; };
+		A78C49AD2432A7EA00321AFA /* Star Wars SoundFX_3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_3.mp3"; sourceTree = "<group>"; };
+		A78C49AE2432A7EA00321AFA /* Star Wars SoundFX_51.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_51.mp3"; sourceTree = "<group>"; };
+		A78C49AF2432A7EB00321AFA /* Star Wars SoundFX_74.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_74.mp3"; sourceTree = "<group>"; };
+		A78C49B02432A7EB00321AFA /* Star Wars SoundFX_75.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_75.mp3"; sourceTree = "<group>"; };
+		A78C49B12432A7EB00321AFA /* Star Wars SoundFX_78.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_78.mp3"; sourceTree = "<group>"; };
+		A78C49B22432A7EB00321AFA /* Star Wars SoundFX_28.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_28.mp3"; sourceTree = "<group>"; };
+		A78C49B32432A7EB00321AFA /* Star Wars SoundFX_41.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_41.mp3"; sourceTree = "<group>"; };
+		A78C49B42432A7EB00321AFA /* Star Wars SoundFX_27.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_27.mp3"; sourceTree = "<group>"; };
+		A78C49B52432A7EB00321AFA /* Star Wars SoundFX_13.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_13.mp3"; sourceTree = "<group>"; };
+		A78C49B62432A7EB00321AFA /* Star Wars SoundFX_65.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_65.mp3"; sourceTree = "<group>"; };
+		A78C49B72432A7EB00321AFA /* Star Wars SoundFX_73.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_73.mp3"; sourceTree = "<group>"; };
+		A78C49B82432A7EB00321AFA /* Star Wars SoundFX_50.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_50.mp3"; sourceTree = "<group>"; };
+		A78C49B92432A7EC00321AFA /* Star Wars SoundFX_63.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_63.mp3"; sourceTree = "<group>"; };
+		A78C49BA2432A7EC00321AFA /* Star Wars SoundFX_18.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_18.mp3"; sourceTree = "<group>"; };
+		A78C49BB2432A7EC00321AFA /* Star Wars SoundFX_59.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_59.mp3"; sourceTree = "<group>"; };
+		A78C49BC2432A7EC00321AFA /* Star Wars SoundFX_70.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_70.mp3"; sourceTree = "<group>"; };
+		A78C49BD2432A7EC00321AFA /* Star Wars SoundFX_69.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_69.mp3"; sourceTree = "<group>"; };
+		A78C49BE2432A7EC00321AFA /* Star Wars SoundFX_26.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_26.mp3"; sourceTree = "<group>"; };
+		A78C49BF2432A7EC00321AFA /* Star Wars SoundFX_14.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_14.mp3"; sourceTree = "<group>"; };
+		A78C49C02432A7EC00321AFA /* Star Wars SoundFX_29.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_29.mp3"; sourceTree = "<group>"; };
+		A78C49C12432A7ED00321AFA /* Star Wars SoundFX_5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_5.mp3"; sourceTree = "<group>"; };
+		A78C49C22432A7ED00321AFA /* Star Wars SoundFX_44.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_44.mp3"; sourceTree = "<group>"; };
+		A78C49C32432A7ED00321AFA /* Star Wars SoundFX_36.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_36.mp3"; sourceTree = "<group>"; };
+		A78C49C42432A7ED00321AFA /* Star Wars SoundFX_66.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_66.mp3"; sourceTree = "<group>"; };
+		A78C49C52432A7ED00321AFA /* Star Wars SoundFX_43.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_43.mp3"; sourceTree = "<group>"; };
+		A78C49C62432A7ED00321AFA /* Star Wars SoundFX_9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_9.mp3"; sourceTree = "<group>"; };
+		A78C49C72432A7ED00321AFA /* Star Wars SoundFX_48.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_48.mp3"; sourceTree = "<group>"; };
+		A78C49C82432A7EE00321AFA /* Star Wars SoundFX_57.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_57.mp3"; sourceTree = "<group>"; };
+		A78C49C92432A7EE00321AFA /* Star Wars SoundFX_42.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_42.mp3"; sourceTree = "<group>"; };
+		A78C49CA2432A7EE00321AFA /* Star Wars SoundFX_22.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_22.mp3"; sourceTree = "<group>"; };
+		A78C49CB2432A7EE00321AFA /* Star Wars SoundFX_20.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_20.mp3"; sourceTree = "<group>"; };
+		A78C49CC2432A7EE00321AFA /* Star Wars SoundFX_56.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_56.mp3"; sourceTree = "<group>"; };
+		A78C49CD2432A7EE00321AFA /* Star Wars SoundFX_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_1.mp3"; sourceTree = "<group>"; };
+		A78C49CE2432A7EE00321AFA /* Star Wars SoundFX_6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_6.mp3"; sourceTree = "<group>"; };
+		A78C49CF2432A7EE00321AFA /* Star Wars SoundFX_68.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_68.mp3"; sourceTree = "<group>"; };
+		A78C49D02432A7EF00321AFA /* Star Wars SoundFX_61.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_61.mp3"; sourceTree = "<group>"; };
+		A78C49D12432A7EF00321AFA /* Star Wars SoundFX_34.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_34.mp3"; sourceTree = "<group>"; };
+		A78C49D22432A7EF00321AFA /* Star Wars SoundFX_4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_4.mp3"; sourceTree = "<group>"; };
+		A78C49D32432A7EF00321AFA /* Star Wars SoundFX_8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_8.mp3"; sourceTree = "<group>"; };
+		A78C49D42432A7EF00321AFA /* Star Wars SoundFX_40.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_40.mp3"; sourceTree = "<group>"; };
+		A78C49D52432A7EF00321AFA /* Star Wars SoundFX_49.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_49.mp3"; sourceTree = "<group>"; };
+		A78C49D62432A7EF00321AFA /* Star Wars SoundFX_47.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_47.mp3"; sourceTree = "<group>"; };
+		A78C49D72432A7EF00321AFA /* Star Wars SoundFX_54.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_54.mp3"; sourceTree = "<group>"; };
+		A78C49D82432A7EF00321AFA /* Star Wars SoundFX_62.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_62.mp3"; sourceTree = "<group>"; };
+		A78C49D92432A7F000321AFA /* Star Wars SoundFX_31.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_31.mp3"; sourceTree = "<group>"; };
+		A78C49DA2432A7F000321AFA /* Star Wars SoundFX_30.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_30.mp3"; sourceTree = "<group>"; };
+		A78C49DB2432A7F000321AFA /* Star Wars SoundFX_16.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Star Wars SoundFX_16.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,9 +222,97 @@
 				A78C493C243273BA00321AFA /* LaunchScreen.storyboard */,
 				A78C493F243273BA00321AFA /* Info.plist */,
 				A78C494524327C4D00321AFA /* MainViewController.swift */,
+				A78C498A2432A49400321AFA /* Audios.swift */,
 				A78C494724328F3300321AFA /* NextViewController.swift */,
+				A78C498C2432A7D100321AFA /* Sounds */,
 			);
 			path = ViewCode;
+			sourceTree = "<group>";
+		};
+		A78C498C2432A7D100321AFA /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				A78C49CD2432A7EE00321AFA /* Star Wars SoundFX_1.mp3 */,
+				A78C499C2432A7E900321AFA /* Star Wars SoundFX_2.mp3 */,
+				A78C49AD2432A7EA00321AFA /* Star Wars SoundFX_3.mp3 */,
+				A78C49D22432A7EF00321AFA /* Star Wars SoundFX_4.mp3 */,
+				A78C49C12432A7ED00321AFA /* Star Wars SoundFX_5.mp3 */,
+				A78C49CE2432A7EE00321AFA /* Star Wars SoundFX_6.mp3 */,
+				A78C49942432A7E800321AFA /* Star Wars SoundFX_7.mp3 */,
+				A78C49D32432A7EF00321AFA /* Star Wars SoundFX_8.mp3 */,
+				A78C49C62432A7ED00321AFA /* Star Wars SoundFX_9.mp3 */,
+				A78C498F2432A7E800321AFA /* Star Wars SoundFX_10.mp3 */,
+				A78C49A02432A7E900321AFA /* Star Wars SoundFX_11.mp3 */,
+				A78C49A62432A7EA00321AFA /* Star Wars SoundFX_12.mp3 */,
+				A78C49B52432A7EB00321AFA /* Star Wars SoundFX_13.mp3 */,
+				A78C49BF2432A7EC00321AFA /* Star Wars SoundFX_14.mp3 */,
+				A78C49A82432A7EA00321AFA /* Star Wars SoundFX_15.mp3 */,
+				A78C49DB2432A7F000321AFA /* Star Wars SoundFX_16.mp3 */,
+				A78C49AC2432A7EA00321AFA /* Star Wars SoundFX_17.mp3 */,
+				A78C49BA2432A7EC00321AFA /* Star Wars SoundFX_18.mp3 */,
+				A78C49A42432A7EA00321AFA /* Star Wars SoundFX_19.mp3 */,
+				A78C49CB2432A7EE00321AFA /* Star Wars SoundFX_20.mp3 */,
+				A78C49A22432A7E900321AFA /* Star Wars SoundFX_21.mp3 */,
+				A78C49CA2432A7EE00321AFA /* Star Wars SoundFX_22.mp3 */,
+				A78C499A2432A7E900321AFA /* Star Wars SoundFX_23.mp3 */,
+				A78C499F2432A7E900321AFA /* Star Wars SoundFX_24.mp3 */,
+				A78C49902432A7E800321AFA /* Star Wars SoundFX_25.mp3 */,
+				A78C49BE2432A7EC00321AFA /* Star Wars SoundFX_26.mp3 */,
+				A78C49B42432A7EB00321AFA /* Star Wars SoundFX_27.mp3 */,
+				A78C49B22432A7EB00321AFA /* Star Wars SoundFX_28.mp3 */,
+				A78C49C02432A7EC00321AFA /* Star Wars SoundFX_29.mp3 */,
+				A78C49DA2432A7F000321AFA /* Star Wars SoundFX_30.mp3 */,
+				A78C49D92432A7F000321AFA /* Star Wars SoundFX_31.mp3 */,
+				A78C498D2432A7E800321AFA /* Star Wars SoundFX_32.mp3 */,
+				A78C499E2432A7E900321AFA /* Star Wars SoundFX_33.mp3 */,
+				A78C49D12432A7EF00321AFA /* Star Wars SoundFX_34.mp3 */,
+				A78C49962432A7E800321AFA /* Star Wars SoundFX_35.mp3 */,
+				A78C49C32432A7ED00321AFA /* Star Wars SoundFX_36.mp3 */,
+				A78C49A92432A7EA00321AFA /* Star Wars SoundFX_37.mp3 */,
+				A78C49952432A7E800321AFA /* Star Wars SoundFX_38.mp3 */,
+				A78C49AA2432A7EA00321AFA /* Star Wars SoundFX_39.mp3 */,
+				A78C49D42432A7EF00321AFA /* Star Wars SoundFX_40.mp3 */,
+				A78C49B32432A7EB00321AFA /* Star Wars SoundFX_41.mp3 */,
+				A78C49C92432A7EE00321AFA /* Star Wars SoundFX_42.mp3 */,
+				A78C49C52432A7ED00321AFA /* Star Wars SoundFX_43.mp3 */,
+				A78C49C22432A7ED00321AFA /* Star Wars SoundFX_44.mp3 */,
+				A78C49982432A7E800321AFA /* Star Wars SoundFX_45.mp3 */,
+				A78C49972432A7E800321AFA /* Star Wars SoundFX_46.mp3 */,
+				A78C49D62432A7EF00321AFA /* Star Wars SoundFX_47.mp3 */,
+				A78C49C72432A7ED00321AFA /* Star Wars SoundFX_48.mp3 */,
+				A78C49D52432A7EF00321AFA /* Star Wars SoundFX_49.mp3 */,
+				A78C49B82432A7EB00321AFA /* Star Wars SoundFX_50.mp3 */,
+				A78C49AE2432A7EA00321AFA /* Star Wars SoundFX_51.mp3 */,
+				A78C49932432A7E800321AFA /* Star Wars SoundFX_52.mp3 */,
+				A78C498E2432A7E800321AFA /* Star Wars SoundFX_53.mp3 */,
+				A78C49D72432A7EF00321AFA /* Star Wars SoundFX_54.mp3 */,
+				A78C49A12432A7E900321AFA /* Star Wars SoundFX_55.mp3 */,
+				A78C49CC2432A7EE00321AFA /* Star Wars SoundFX_56.mp3 */,
+				A78C49C82432A7EE00321AFA /* Star Wars SoundFX_57.mp3 */,
+				A78C49912432A7E800321AFA /* Star Wars SoundFX_58.mp3 */,
+				A78C49BB2432A7EC00321AFA /* Star Wars SoundFX_59.mp3 */,
+				A78C499B2432A7E900321AFA /* Star Wars SoundFX_60.mp3 */,
+				A78C49D02432A7EF00321AFA /* Star Wars SoundFX_61.mp3 */,
+				A78C49D82432A7EF00321AFA /* Star Wars SoundFX_62.mp3 */,
+				A78C49B92432A7EC00321AFA /* Star Wars SoundFX_63.mp3 */,
+				A78C49A72432A7EA00321AFA /* Star Wars SoundFX_64.mp3 */,
+				A78C49B62432A7EB00321AFA /* Star Wars SoundFX_65.mp3 */,
+				A78C49C42432A7ED00321AFA /* Star Wars SoundFX_66.mp3 */,
+				A78C49A32432A7E900321AFA /* Star Wars SoundFX_67.mp3 */,
+				A78C49CF2432A7EE00321AFA /* Star Wars SoundFX_68.mp3 */,
+				A78C49BD2432A7EC00321AFA /* Star Wars SoundFX_69.mp3 */,
+				A78C49BC2432A7EC00321AFA /* Star Wars SoundFX_70.mp3 */,
+				A78C49A52432A7EA00321AFA /* Star Wars SoundFX_71.mp3 */,
+				A78C49AB2432A7EA00321AFA /* Star Wars SoundFX_72.mp3 */,
+				A78C49B72432A7EB00321AFA /* Star Wars SoundFX_73.mp3 */,
+				A78C49AF2432A7EB00321AFA /* Star Wars SoundFX_74.mp3 */,
+				A78C49B02432A7EB00321AFA /* Star Wars SoundFX_75.mp3 */,
+				A78C49922432A7E800321AFA /* Star Wars SoundFX_76.mp3 */,
+				A78C499D2432A7E900321AFA /* Star Wars SoundFX_77.mp3 */,
+				A78C49B12432A7EB00321AFA /* Star Wars SoundFX_78.mp3 */,
+				A78C49992432A7E900321AFA /* Star Wars SoundFX_79.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +373,87 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A78C49E12432A7F000321AFA /* Star Wars SoundFX_76.mp3 in Resources */,
+				A78C49ED2432A7F000321AFA /* Star Wars SoundFX_33.mp3 in Resources */,
+				A78C4A252432A7F000321AFA /* Star Wars SoundFX_47.mp3 in Resources */,
+				A78C4A142432A7F000321AFA /* Star Wars SoundFX_43.mp3 in Resources */,
+				A78C4A262432A7F000321AFA /* Star Wars SoundFX_54.mp3 in Resources */,
+				A78C4A152432A7F000321AFA /* Star Wars SoundFX_9.mp3 in Resources */,
+				A78C4A292432A7F000321AFA /* Star Wars SoundFX_30.mp3 in Resources */,
+				A78C4A122432A7F000321AFA /* Star Wars SoundFX_36.mp3 in Resources */,
+				A78C4A0C2432A7F000321AFA /* Star Wars SoundFX_69.mp3 in Resources */,
+				A78C4A212432A7F000321AFA /* Star Wars SoundFX_4.mp3 in Resources */,
+				A78C4A112432A7F000321AFA /* Star Wars SoundFX_44.mp3 in Resources */,
+				A78C49F82432A7F000321AFA /* Star Wars SoundFX_37.mp3 in Resources */,
+				A78C49FE2432A7F000321AFA /* Star Wars SoundFX_74.mp3 in Resources */,
 				A78C493E243273BA00321AFA /* LaunchScreen.storyboard in Resources */,
+				A78C49FC2432A7F000321AFA /* Star Wars SoundFX_3.mp3 in Resources */,
+				A78C49EC2432A7F000321AFA /* Star Wars SoundFX_77.mp3 in Resources */,
+				A78C4A202432A7F000321AFA /* Star Wars SoundFX_34.mp3 in Resources */,
+				A78C49DE2432A7F000321AFA /* Star Wars SoundFX_10.mp3 in Resources */,
+				A78C49E62432A7F000321AFA /* Star Wars SoundFX_46.mp3 in Resources */,
+				A78C4A1B2432A7F000321AFA /* Star Wars SoundFX_56.mp3 in Resources */,
+				A78C49EA2432A7F000321AFA /* Star Wars SoundFX_60.mp3 in Resources */,
+				A78C4A1D2432A7F000321AFA /* Star Wars SoundFX_6.mp3 in Resources */,
+				A78C4A1E2432A7F000321AFA /* Star Wars SoundFX_68.mp3 in Resources */,
+				A78C4A132432A7F000321AFA /* Star Wars SoundFX_66.mp3 in Resources */,
+				A78C4A1A2432A7F000321AFA /* Star Wars SoundFX_20.mp3 in Resources */,
+				A78C49E02432A7F000321AFA /* Star Wars SoundFX_58.mp3 in Resources */,
+				A78C4A2A2432A7F000321AFA /* Star Wars SoundFX_16.mp3 in Resources */,
+				A78C49EE2432A7F000321AFA /* Star Wars SoundFX_24.mp3 in Resources */,
+				A78C49DF2432A7F000321AFA /* Star Wars SoundFX_25.mp3 in Resources */,
+				A78C49F02432A7F000321AFA /* Star Wars SoundFX_55.mp3 in Resources */,
+				A78C4A242432A7F000321AFA /* Star Wars SoundFX_49.mp3 in Resources */,
+				A78C49F72432A7F000321AFA /* Star Wars SoundFX_15.mp3 in Resources */,
+				A78C49E72432A7F000321AFA /* Star Wars SoundFX_45.mp3 in Resources */,
+				A78C4A042432A7F000321AFA /* Star Wars SoundFX_13.mp3 in Resources */,
+				A78C49E32432A7F000321AFA /* Star Wars SoundFX_7.mp3 in Resources */,
+				A78C4A052432A7F000321AFA /* Star Wars SoundFX_65.mp3 in Resources */,
+				A78C49E92432A7F000321AFA /* Star Wars SoundFX_23.mp3 in Resources */,
+				A78C4A0E2432A7F000321AFA /* Star Wars SoundFX_14.mp3 in Resources */,
+				A78C49FD2432A7F000321AFA /* Star Wars SoundFX_51.mp3 in Resources */,
+				A78C49F12432A7F000321AFA /* Star Wars SoundFX_21.mp3 in Resources */,
+				A78C49F32432A7F000321AFA /* Star Wars SoundFX_19.mp3 in Resources */,
+				A78C4A012432A7F000321AFA /* Star Wars SoundFX_28.mp3 in Resources */,
+				A78C4A172432A7F000321AFA /* Star Wars SoundFX_57.mp3 in Resources */,
+				A78C4A0F2432A7F000321AFA /* Star Wars SoundFX_29.mp3 in Resources */,
+				A78C49FF2432A7F000321AFA /* Star Wars SoundFX_75.mp3 in Resources */,
+				A78C49E42432A7F000321AFA /* Star Wars SoundFX_38.mp3 in Resources */,
+				A78C4A062432A7F000321AFA /* Star Wars SoundFX_73.mp3 in Resources */,
 				A78C493B243273BA00321AFA /* Assets.xcassets in Resources */,
+				A78C4A072432A7F000321AFA /* Star Wars SoundFX_50.mp3 in Resources */,
+				A78C4A022432A7F000321AFA /* Star Wars SoundFX_41.mp3 in Resources */,
+				A78C4A1C2432A7F000321AFA /* Star Wars SoundFX_1.mp3 in Resources */,
+				A78C49EB2432A7F000321AFA /* Star Wars SoundFX_2.mp3 in Resources */,
+				A78C49DC2432A7F000321AFA /* Star Wars SoundFX_32.mp3 in Resources */,
+				A78C49E82432A7F000321AFA /* Star Wars SoundFX_79.mp3 in Resources */,
+				A78C49FA2432A7F000321AFA /* Star Wars SoundFX_72.mp3 in Resources */,
+				A78C4A0D2432A7F000321AFA /* Star Wars SoundFX_26.mp3 in Resources */,
+				A78C49DD2432A7F000321AFA /* Star Wars SoundFX_53.mp3 in Resources */,
+				A78C49F52432A7F000321AFA /* Star Wars SoundFX_12.mp3 in Resources */,
+				A78C4A232432A7F000321AFA /* Star Wars SoundFX_40.mp3 in Resources */,
+				A78C49F22432A7F000321AFA /* Star Wars SoundFX_67.mp3 in Resources */,
+				A78C49EF2432A7F000321AFA /* Star Wars SoundFX_11.mp3 in Resources */,
+				A78C49F62432A7F000321AFA /* Star Wars SoundFX_64.mp3 in Resources */,
+				A78C49E22432A7F000321AFA /* Star Wars SoundFX_52.mp3 in Resources */,
+				A78C49E52432A7F000321AFA /* Star Wars SoundFX_35.mp3 in Resources */,
+				A78C4A082432A7F000321AFA /* Star Wars SoundFX_63.mp3 in Resources */,
+				A78C4A002432A7F000321AFA /* Star Wars SoundFX_78.mp3 in Resources */,
+				A78C4A182432A7F000321AFA /* Star Wars SoundFX_42.mp3 in Resources */,
+				A78C4A162432A7F000321AFA /* Star Wars SoundFX_48.mp3 in Resources */,
+				A78C4A192432A7F000321AFA /* Star Wars SoundFX_22.mp3 in Resources */,
+				A78C4A102432A7F000321AFA /* Star Wars SoundFX_5.mp3 in Resources */,
+				A78C4A032432A7F000321AFA /* Star Wars SoundFX_27.mp3 in Resources */,
+				A78C4A092432A7F000321AFA /* Star Wars SoundFX_18.mp3 in Resources */,
+				A78C49F42432A7F000321AFA /* Star Wars SoundFX_71.mp3 in Resources */,
+				A78C4A272432A7F000321AFA /* Star Wars SoundFX_62.mp3 in Resources */,
+				A78C4A0B2432A7F000321AFA /* Star Wars SoundFX_70.mp3 in Resources */,
+				A78C4A1F2432A7F000321AFA /* Star Wars SoundFX_61.mp3 in Resources */,
+				A78C4A282432A7F000321AFA /* Star Wars SoundFX_31.mp3 in Resources */,
+				A78C49F92432A7F000321AFA /* Star Wars SoundFX_39.mp3 in Resources */,
+				A78C4A0A2432A7F000321AFA /* Star Wars SoundFX_59.mp3 in Resources */,
+				A78C49FB2432A7F000321AFA /* Star Wars SoundFX_17.mp3 in Resources */,
+				A78C4A222432A7F000321AFA /* Star Wars SoundFX_8.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +468,7 @@
 				A78C494824328F3300321AFA /* NextViewController.swift in Sources */,
 				A78C4932243273B600321AFA /* AppDelegate.swift in Sources */,
 				A78C4934243273B600321AFA /* SceneDelegate.swift in Sources */,
+				A78C498B2432A49400321AFA /* Audios.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
